@@ -1,0 +1,3 @@
+开发环境 :  eclipse + tomcat6 + mysql5
+连接数据库 : 将src/c3p0-config.xml中配置的数据库用户名和密码修改为正确的值
+数据库表数据 : 将data.sql在mysql中执行即可
