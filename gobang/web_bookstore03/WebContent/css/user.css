@@ -1,0 +1,26 @@
+* {
+	font-size: 20px; 
+}
+
+table {
+	width: 400px;
+	border-spacing: 0px; /*边框之间的间距*/
+	border-collapse: collapse; /*边框是否合并*/
+}
+
+td {
+	border: 1px solid gray; /*边宽的宽度, 实线, 灰色*/
+} 
+
+a {
+	text-decoration: none;
+}
+
+a:HOVER {  
+	color: red;  
+	font-weight: bolder;
+}
+
+.input {
+	width: 98%;  
+}
